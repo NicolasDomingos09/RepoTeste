@@ -12,5 +12,6 @@ public class Main {
 
         String invertida = op.inverter(inicial);
         System.out.println(invertida);
+        scan.close();
     }
 }
